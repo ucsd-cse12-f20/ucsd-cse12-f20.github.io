@@ -83,7 +83,7 @@ either section can attend either discussion.
 
 There are many instructional staff to help with your learning. You can find
 their names and pictures on <a
-href="piazza.com/eng.ucsd.edu/winter2020/cse12/staff" target="_blank">Piazza
+href="https://piazza.com/eng.ucsd.edu/winter2020/cse12/staff" target="_blank">Piazza
 Staff page</a>. Our “home base” is in B260 in the CSE building (basement), but
 you can work in any lab. You should use <a href="https://autograder.ucsd.edu"
 target="_blank">Autograder</a> to ask for help in open lab hours. In addition,
@@ -114,8 +114,8 @@ We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
 
 Online discussion and Q&A for the class will be available on Piazza: sign up to
-<a href="piazza.com/eng.ucsd.edu/winter2020/cse12" target="_blank">join the class here</a>
-and <a href="piazza.com/eng.ucsd.edu/winter2020/cse12/home" target="_blank">view the discussion forum here</a>.
+<a href="https://piazza.com/eng.ucsd.edu/winter2020/cse12" target="_blank">join the class here</a>
+and <a href="https://piazza.com/eng.ucsd.edu/winter2020/cse12/home" target="_blank">view the discussion forum here</a>.
 Important announcements from the course team will be pinned at the top of your feed.
 When you set up your account, you can select the frequency for email notifications of messages and discussions
 on Piazza.  Piazza is one way you can <a href="#pa:piazzahelp">ask for and get help</a> in this course.
