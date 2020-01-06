@@ -142,8 +142,7 @@ average.
 
 Earn engagement points by:
 * __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will
-earn credit for attending and participating in lecture (2 points each) and discussion section (1 point each, up to a maximum
-of 2 points per week).
+earn credit for attending and participating in lecture (3 points each) and discussion section (2 points).
 Clicker questions will be graded for participation only and not for correctness of the response.
 Full credit for clicker points for a given day will be
 awarded for clicking in at least 80% of the time that day. Forgetting your clicker counts as missing a class, so please
