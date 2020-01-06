@@ -549,7 +549,7 @@ Your data from this class including grades, homework and exam submissions, and s
 
 <p>Participation in this study may involve some added risks or discomforts. These include the following:
 
-A potential for the loss of confidentiality. We will not share your personally identifying data with people outside our research team. Data will only be kept in anonymized form for research purposes. Course data will not used for this research study until after final grades have been posted and will be rendered confidential by removing any identifiers before analysis. Your instructor will not know whether or not you are participating in this study until after final grades have been posted. Data from students who opt out of the study will be removed prior to data analysis. Research records will be kept confidential to the extent allowed by law. Research records may be reviewed by the UCSD Institutional Review Board.
+A potential for the loss of confidentiality. We will not share your personally identifying data with people outside our research team. Data will only be kept in anonymized form for research purposes. Course data will not be used for this research study until after final grades have been posted and will be rendered confidential by removing any identifiers before analysis. Your instructor will not know whether or not you are participating in this study until after final grades have been posted. Data from students who opt out of the study will be removed prior to data analysis. Research records will be kept confidential to the extent allowed by law. Research records may be reviewed by the UCSD Institutional Review Board.
 Since this is an investigational study, there may be some unknown risks that are currently unforeseeable. You will be informed of any significant new findings.</p>
 
 <h5>What are the alternatives to participating in this study?</h5>
@@ -562,7 +562,7 @@ Since this is an investigational study, there may be some unknown risks that are
 
 <h5>Can you choose to not participate or withdraw from the study without penalty or loss of benefits?</h5>
 
-<p>Participation in research is entirely voluntary. You may refuse to participate or withdraw or refuse to answer specific questions in an interview or on a questionnaire at any time without penalty or loss of benefits to which you are entitled. If you decide that you no longer wish to continue in this study before the end of the quarter, simply respond to the online opt-out form here: <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. If you decide to opt out after the quarter has ended, you must contact Ying Xiong (yix184@ucsd.edu) and give the quarter and the course from which you would like your data withdrawn.
+<p>Participation in research is entirely voluntary. You may refuse to participate or withdraw or refuse to answer specific questions in an interview or on a questionnaire at any time without penalty or loss of benefits to which you are entitled. If you decide that you no longer wish to continue in this study before the end of the quarter, simply respond to the online opt-out form here: <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2.</a>. If you decide to opt out after the quarter has ended, you must contact Laurel Nelson (laureln@ucsd.edu) and give the quarter and the course from which you would like your data withdrawn.
 
 You will be told if any important new information is found during the course of this study that may affect your wanting to continue.
 </p>
@@ -587,7 +587,7 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 
 <h5>Your Consent</h5>
 
-<p>If you consent to participate in this study and are at least 18 years old, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
+<p>If you consent to participate in this study, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://docs.google.com/forms/d/e/1FAIpQLScs0Cznypp4SxQJOsFMgP9nFDjJ0zzYPlSBWsiP3_wiWkdjaA/viewform" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLScs0Cznypp4SxQJOsFMgP9nFDjJ0zzYPlSBWsiP3_wiWkdjaA/viewform</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
 
 <a id = "p:ucsdsupport"></a>
 
