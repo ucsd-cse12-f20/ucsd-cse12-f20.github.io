@@ -93,7 +93,7 @@ for help on an assignment or material covered in class. The schedule for both
 office hours and lab hours are below. For office hours, the room number is
 noted on the event itself.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ucsd.edu_oj059o1f9u0416d8cor95v23d0%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREtvHzGqslFCv4C0TomTsuoc43ZGBdlIcq4BzavoM_WIkv9ZSy4W-Ve2uchyvy0S2OJu83CCydb0Rm/pubhtml?gid=559678146&single=true" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### <a id="b:materials" href="#b:materials">Materials</a>
 
