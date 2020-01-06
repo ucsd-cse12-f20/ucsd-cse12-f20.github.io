@@ -89,7 +89,7 @@ you can work in any lab. You should use <a href="https://autograder.ucsd.edu"
 target="_blank">Autograder</a> to ask for help in open lab hours. In addition,
 Professor Greg and the TA each hold individual weekly office hours that
 you can attend. You can use either of these resources whether you're looking
-for help on an assignment or material covered in class. The schedule for both
+for help on an assignment or material covered in class. The <a href="https://docs.google.com/spreadsheets/d/1LjlUi9LKZ6z1Opg0hmVaDDgRr6uHVkqBjbaUAJbgNMg/edit#gid=559678146" target="_blank">schedule</a> for both
 office hours and lab hours are below. For office hours, the room number is
 noted on the event itself.
 
