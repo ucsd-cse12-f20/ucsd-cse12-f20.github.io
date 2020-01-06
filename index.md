@@ -175,17 +175,15 @@ attending two lectures and getting two answers correct on the review  quiz; etc.
 
 There will be two exams during the quarter, held in class during Week 4
 
-**Friday 2/1/2019**
+**Thursday 1/31/2020**
 
 and Week 8
 
-**Wednesday 2/27/2019**
+**Thursday 2/27/2020**
 
-of the Winter quarter.  The final exams depend on your section:
+of the Winter quarter.  The final exam:
 
-**A Section: Monday March 18, 8am**
-
-**B Section: Wednesday March 20, 3pm**
+**B Section: Thursday, March 19, 8am**
 
 Seats will be assigned for all exam sessions and announced beforehand, and you
 must bring your school ID to the exam. All work on exams is to be done on your
