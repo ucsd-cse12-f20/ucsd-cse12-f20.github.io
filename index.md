@@ -62,9 +62,7 @@ Expect class to be interactive; you'll work through problems in groups, compare 
 
 Discussions will reinforce concepts from class and introduce concepts that
 are especially helpful for completing programming assignments. Students from
-either section can attend either discussion. In general, the Tuesday section
-will focus more on reinforcing concepts, and Fridays will focus more on
-introducing programming assignments.
+either section can attend either discussion. 
 
 <table class="table table-striped">
 <thead>
@@ -85,11 +83,11 @@ introducing programming assignments.
 
 There are many instructional staff to help with your learning. You can find
 their names and pictures on <a
-href="https://piazza.com/ucsd/winter2019/cse12/staff" target="_blank">Piazza
+href="piazza.com/eng.ucsd.edu/winter2020/cse12/staff" target="_blank">Piazza
 Staff page</a>. Our “home base” is in B260 in the CSE building (basement), but
 you can work in any lab. You should use <a href="https://autograder.ucsd.edu"
 target="_blank">Autograder</a> to ask for help in open lab hours. In addition,
-Professor Joe and the four TAs each hold individual weekly office hours that
+Professor Greg and the TA each hold individual weekly office hours that
 you can attend. You can use either of these resources whether you're looking
 for help on an assignment or material covered in class. The schedule for both
 office hours and lab hours are below. For office hours, the room number is
@@ -109,15 +107,15 @@ is also a significant amount of reference material at the end of the book for
 review of Java concepts. To get access to the book:
 
 1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
-2. Enter zyBook code: UCSDCSE12PolitzWinter2019
+2. Enter zyBook code: UCSDCSE12MirandaWinter2020
 3. Subscribe
 
 We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
 
 Online discussion and Q&A for the class will be available on Piazza: sign up to
-<a href="http://piazza.com/ucsd/winter2019/cse12" target="_blank">join the class here</a>
-and <a href="http://piazza.com/ucsd/winter2019/cse12/home" target="_blank">view the discussion forum here</a>.
+<a href="piazza.com/eng.ucsd.edu/winter2020/cse12" target="_blank">join the class here</a>
+and <a href="piazza.com/eng.ucsd.edu/winter2020/cse12/home" target="_blank">view the discussion forum here</a>.
 Important announcements from the course team will be pinned at the top of your feed.
 When you set up your account, you can select the frequency for email notifications of messages and discussions
 on Piazza.  Piazza is one way you can <a href="#pa:piazzahelp">ask for and get help</a> in this course.
@@ -130,11 +128,6 @@ assignments in this course, which is available at <a href="https://www.oracle.co
 
 You'll be submitting your classwork and seeing grading feedback through a
 tool called <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
-
-You'll be receiving starter code through a service called <a
-href="https://github.com" target="_blank">Github</a>. You aren't required to
-have an account to complete coursework, but it can be useful for you to make
-one.
 
 ### <a id="b:engage" href="#b:engage">Engagement</a>
 
