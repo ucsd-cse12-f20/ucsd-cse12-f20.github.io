@@ -84,7 +84,7 @@ either section can attend either discussion.
 There are many instructional staff to help with your learning. You can find
 their names and pictures on <a
 href="https://piazza.com/eng.ucsd.edu/winter2020/cse12/staff" target="_blank">Piazza
-Staff page</a>. Our “home base” is in B260 in the CSE building (basement), but
+Staff page</a>. Our “home base” is in B230 in the CSE building (basement), but
 you can work in any lab. You should use <a href="https://autograder.ucsd.edu"
 target="_blank">Autograder</a> to ask for help in open lab hours. In addition,
 Instructor Greg and the TA each hold individual weekly office hours that
