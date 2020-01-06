@@ -181,7 +181,7 @@ and Week 8
 
 of the Winter quarter.  The final exam will be:
 
-**B Section: Thursday, March 19, 8am**
+**Thursday, March 19, 8am**
 
 Seats will be assigned for all exam sessions and announced beforehand, and you
 must bring your school ID to the exam. All work on exams is to be done on your
