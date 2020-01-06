@@ -510,7 +510,7 @@ Gradescope's interface.
 
 <a id="p:community"></a>
 <h3>The CSE 12 Community</h3>
-CSE 12 is a large course: there are 19 people on the instructional team and over 300 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
+CSE 12 is a large course: there are 11 people on the instructional team and over 190 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
 
