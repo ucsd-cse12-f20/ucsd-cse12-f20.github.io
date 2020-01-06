@@ -166,9 +166,7 @@ else's name, or ask anyone for prior knowledge about the review quiz._
 
 
 We encourage you to find your preferred method for staying engaged with the course.  There are lots of ways to earn
-full credit for a week's engagement.  For example: (1) attending all lectures (for the section in which you're enrolled); or
-(2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4)
-attending two lectures and getting two answers correct on the review  quiz; etc.
+full credit for a week's engagement.  For example: (1) attending all lectures; or (2) answering all questions on the review quiz correctly; or (3) attending one lecture, discussion section,  and getting one answer correct on the review quiz; etc.
 
 <a id="b:exams"></a>
 <h3>Exams</h3>
