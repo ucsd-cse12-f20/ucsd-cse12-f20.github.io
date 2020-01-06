@@ -54,10 +54,7 @@ Expect class to be interactive; you'll work through problems in groups, compare 
   </tr>
 </thead>
 <tr>
-  <td> A00 </td><td>MWF 8am</td><td>WLH2005 </td>
-</tr>
-<tr>
-  <td>B00 </td><td>MWF 3pm </td><td>York 2622</td>
+  <td>B00 </td><td>TuTh 8am </td><td>WLH 2005</td>
 </tr>
 </table>
 
@@ -76,10 +73,10 @@ introducing programming assignments.
   </tr>
 </thead>
 <tr>
-  <td>T 8pm </td><td>PCYNH 109</td>
+  <td>W 8am </td><td>CSB 002</td>
 </tr>
 <tr>
-  <td>F 5pm </td><td>York 2622</td>
+  <td>W 9am </td><td>CSB 002</td>
 </tr>
 </table>
 
