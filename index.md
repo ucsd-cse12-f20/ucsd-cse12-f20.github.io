@@ -179,7 +179,7 @@ and Week 8
 
 **Thursday 2/27/2020**
 
-of the Winter quarter.  The final exam:
+of the Winter quarter.  The final exam will be:
 
 **B Section: Thursday, March 19, 8am**
 
