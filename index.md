@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CSE 12 Winter 2019, A &amp; B Sections
+title: CSE 12 Winter 2020, A &amp; B Sections
 doodle: "/doodle.png"
 ---
 
 # Basic Data Structures and Object-Oriented Design
 
-<a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
+<a href="https://gregmiranda.com">Gregory Joseph Miranda</a> (Instructor)
 
 This course focuses on two main topics: The basics of organizing data for
 efficient computation, and the design of programs that use collections,
@@ -38,7 +38,7 @@ complete for the course. You are responsible for checking this schedule and
 completing work by the deadlines given, which are always at 11pm local San
 Diego time on the listed date.
 
-<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPFf5_4n-Mn9YMsZnGaQiiApY6FWWRPNHoow6-CIPdtUZ0BiLp7W3oFYklnkzojgbUpPkv6_KjHH9H/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRR15tptNltuhVbqshr0LMa5s7MgodQezRM1YTmGSmzRRxGtfvpKmQjUlbNs9Ru_nbuPD7Mq-KVvxmd/pubhtml?gid=594704517single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Basic Course Components
 <a id="basics"></a>
