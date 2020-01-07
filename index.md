@@ -173,7 +173,7 @@ full credit for a week's engagement.  For example: (1) attending all lectures; o
 
 There will be two exams during the quarter, held in class during Week 4
 
-**Thursday 1/31/2020**
+**Thursday 1/30/2020**
 
 and Week 8
 
