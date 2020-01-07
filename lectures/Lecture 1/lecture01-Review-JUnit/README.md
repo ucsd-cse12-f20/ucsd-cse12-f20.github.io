@@ -1,3 +1,3 @@
-You can access the worksheet for the day at
+You can access the notes and worksheet for the day at:
 
-https://drive.google.com/drive/u/0/folders/1VDl4k4Kpn97CIh_Sd3ztBMy0hCCONhra
+https://drive.google.com/open?id=1yBjFwwOMTF1mZlcr-rCzERgstfBXKeXi
