@@ -155,7 +155,7 @@ science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-t
  _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
 
 * __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can
-submit your answers to each quiz as many times as you like. The latest submission before 11pm on Tuesday will count towards
+submit your answers to each quiz as many times as you like. The latest submission before 11pm on Monday will count towards
 your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the
 deadline; in the past, students have found working through them to be helpful when studying for exams.
 <a id="p:quiz-ai"></a>
