@@ -8,13 +8,13 @@ doodle: "../doodle.png"
 
 This assignment will exercise your understanding of array and linked lists.
 
-It is due on Wednesday, January 23 at 11pm. A submission link will be provided
-on Gradescope by Monday, January 19.
+It is due on Tuesday, January 21 at 11pm. A submission link will be provided
+on Gradescope by Friday, January 17.
 
 ## Setup and Goal
 
 You can get the starter code at
-[https://github.com/ucsd-cse12-w19/pa2-starter](https://github.com/ucsd-cse12-w19/pa2-starter),
+[https://www.dropbox.com/s/xfvya4jzgl5k9ek/pa2-starter-master.zip?dl=0](https://www.dropbox.com/s/xfvya4jzgl5k9ek/pa2-starter-master.zip?dl=0),
 which contains the following files:
 
 - `StringList.java` – you *cannot* edit this file
@@ -224,8 +224,8 @@ integrity. The full rules for closed PAs are <a href="../#programming">on the
 course web site</a>.
 
 You can always ask the staff about anything from lecture. For this PA, you may
-find it especially helpful to go over the worksheets and code from January 14
-(Monday) and January 16 (Wednesday). The staff will politely decline requests
+find it especially helpful to go over the worksheets and code from the lecture
+on Array Lists and Linked Lists. The staff will politely decline requests
 to help with the PA, however.
 
 If you have any policy questions, please ask!
