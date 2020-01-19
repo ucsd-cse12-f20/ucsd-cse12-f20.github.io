@@ -13,11 +13,11 @@ the algorithm.
 _This assignment draws ideas from an assignment by Prof Langlois and Alvarado,
 which in turn drew from a CSCI 151 lab assignment from Oberlin college._
 
-The assignment is due Wednesday, January 30 at 11pm.
+The assignment is due Tuesday, January 28 at 11pm.
 
 You can get the starter code here:
 
-https://github.com/ucsd-cse12-w19/pa3-starter/
+https://www.dropbox.com/s/9ufpd60xrln3ak0/pa3-starter-master.zip?dl=0
 
 ## The Structure of a Maze Solver
 
@@ -287,7 +287,7 @@ them:
 
 ## Grading
 
-A grader will be made available by Monday, Jan 28. The rough grade breakdown
+A grader will be made available by Friday, Jan 24. The rough grade breakdown
 is:
 
 - 6 points README
