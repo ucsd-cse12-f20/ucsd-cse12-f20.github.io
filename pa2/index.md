@@ -45,7 +45,7 @@ for array lists.
 
 In total, you will implement and thoroughly test:
 
-- `LinkedSL(String[] initialElements)`
+- `LinkedSL(String[] contents)`
 - `isEmpty` for both types of list
 - `toArray` for both types of list
 - `transformAll` for both types of list
@@ -67,10 +67,10 @@ public interface StringChooser {
 
 ## Method and Class Descriptions
 
-### `LinkedSL(String[] initialElements)`
+### `LinkedSL(String[] contents)`
 
 *Constructor* that creates a new `LinkedSL` with its elements from
-`initialElements` in the same order. For example, the following constructor call:
+`contents` in the same order. For example, the following constructor call:
 
 ```
 String[] input = {"a", "b", "c"};
