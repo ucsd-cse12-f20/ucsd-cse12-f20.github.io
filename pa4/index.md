@@ -14,7 +14,7 @@ CS35, and by a similar assignment by Marina Langlois in CSE12 at UCSD_
 Read the whole writeup before starting – there are several different pieces of
 the assignment you will need to hand in. In particular, you will submit:
 
-- Some code for measuring to the `pa4-code` assignment (starter code: [https://github.com/ucsd-cse12-w19/pa4-starter](https://github.com/ucsd-cse12-w19/pa4-starter))
+- Some code for measuring to the `pa4-code` assignment (starter code: [https://www.dropbox.com/s/bupijlrsega21yl/pa4-starter-master.zip?dl=0](https://www.dropbox.com/s/bupijlrsega21yl/pa4-starter-master.zip?dl=0))
 - A PDF to the `pa4-written` assignment
 
 Make sure you know how to generate a PDF (Google Docs is a good option) and ask
@@ -326,7 +326,7 @@ waiting a long time.
 
 There are four artifacts to submit for this PA:
 
-By Thursday, 10:59pm
+By Tuesday (2/4), 11pm
 - The `pa4-code` assignment in Gradescope, where you will submit your
   final code for performing measurements, along with a `README` describing how
   you measured things. This `README` should just contain a few sentences
