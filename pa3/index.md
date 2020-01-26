@@ -17,7 +17,7 @@ The assignment is due Tuesday, January 28 at 11pm.
 
 You can get the starter code here:
 
-https://www.dropbox.com/s/9ufpd60xrln3ak0/pa3-starter-master.zip?dl=0
+<https://www.dropbox.com/s/9ufpd60xrln3ak0/pa3-starter-master.zip?dl=0?>
 
 ## The Structure of a Maze Solver
 
