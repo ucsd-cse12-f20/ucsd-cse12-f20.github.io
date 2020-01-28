@@ -35,7 +35,7 @@ justification:
 If you are justifying the positive direction, give choices of `n0` and `C`. For
 big-Θ, make sure to justify both big-O and big-Ω, or big-O in both directions.
 
-[These slides](https://github.com/ucsd-cse12-w19/ucsd-cse12-w19.github.io/tree/master/lectures/lecture10-O-Theta-Omega) give a definition of big-Θ and big-Ω, which were not
+[These slides](https://drive.google.com/drive/u/1/folders/1jHexcOgS-m1R-IdzJlIg6aoW38724J84) give a definition of big-Θ and big-Ω, which were not
 covered in detail in class. The strategies we showed in class for big-O can
 also be used for big-Ω, and big-Θ simply combines the two.
 
@@ -209,7 +209,7 @@ where `Measurement` is defined in `Measurement.java`.
 
   3. For each of these runs, it _measures_ the time it takes to run. You can do
   this by using the method `System.nanoTime()` (see an example in [discussion
-  code](https://github.com/ucsd-cse12-w19/ucsd-cse12-w19.github.io/blob/master/discussion/week4-discussion-friday-runtime-measurement/MeasurementDemo.java))
+  code](https://drive.google.com/file/d/1DKljTEF7D-QhdDRc7va2IpMXe-quStfs/view?usp=sharing))
   
   4. For each of the measured runs, it creates a `Measurement` whose `valueOfN`
   field is the value that was used for the given run, whose `name` field is the
