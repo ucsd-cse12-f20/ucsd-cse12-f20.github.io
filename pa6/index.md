@@ -10,7 +10,7 @@ which shows data about common words and phrases in text over time.
 
 You can get the starter code here:
 
-[https://github.com/ucsd-cse12-w19/pa6-starter](https://github.com/ucsd-cse12-w19/pa6-starter)
+[https://www.dropbox.com/s/70bajyiayai6pn3/pa6-starter-master.zip?dl=0](https://www.dropbox.com/s/70bajyiayai6pn3/pa6-starter-master.zip?dl=0)
 
 ## Part I: An Implementation of `DefaultMap`
 
