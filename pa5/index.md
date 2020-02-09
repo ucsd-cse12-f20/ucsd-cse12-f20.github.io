@@ -322,7 +322,7 @@ Some good questions to ask a tutor or TA if you don't quite understand:
 
 ## File Summary
 
-Starter code is here: [https://github.com/ucsd-cse12-w19/pa5-starter](https://github.com/ucsd-cse12-w19/pa5-starter)
+Starter code is here: [https://www.dropbox.com/s/1ehbahbjas0onq7/pa5-starter-master.zip?dl=0](https://www.dropbox.com/s/1ehbahbjas0onq7/pa5-starter-master.zip?dl=0)
 
 - `PartitionOracle.java`:
   - `findCounterExample` (you implement this)
