@@ -12,7 +12,7 @@ This PA is **closed** to collaboration.
 
 You can get the starter code here:
 
-https://github.com/ucsd-cse12-w19/pa7-starter
+[https://www.dropbox.com/s/76r0wt7942fkt0l/pa7-starter-master.zip?dl=0](https://www.dropbox.com/s/76r0wt7942fkt0l/pa7-starter-master.zip?dl=0)
 
 ## Part I: Ordered Queries in `OrderedDefaultMap`
 
@@ -38,7 +38,7 @@ information and references are provided in the Javadoc for `OrderedDefaultMap`.
 You should implement and test these thoroughly.
 
 You can also refer to the slides from
-[discussion](https://docs.google.com/presentation/d/1YGHfoM81irUi1xgImlZZk0NPaXG4eRLR65_BRcqADQc/edit#slide=id.g4fd51eaa8b_0_237)
+[discussion](https://docs.google.com/presentation/d/1BiW5ghAPGvmhOjg1UavRm-aaMVJWKZyPxWNqL-j2ShE/edit?usp=sharing)
 for some examples of range queries.
 
 ## Part II: A New Kind of Query
@@ -112,7 +112,7 @@ Some details and hints about the implementation:
 - The `range` method you implement in the `BSTMap` class will be particularly
   effective here.
 - You can refer to the slides from
-  [discussion](https://docs.google.com/presentation/d/1YGHfoM81irUi1xgImlZZk0NPaXG4eRLR65_BRcqADQc/edit#slide=id.g4fd51eaa8b_0_237)
+  [discussion](https://docs.google.com/presentation/d/1BiW5ghAPGvmhOjg1UavRm-aaMVJWKZyPxWNqL-j2ShE/edit?usp=sharing)
   for some examples of range queries and this method's behavior.
 - Realistically, this method will be best at searching for relatively small
   ranges proportional to the overall dataset. Queries with `low` = `"a"` and
