@@ -69,19 +69,19 @@ measure it.
 
 You will submit this in two places:
 
-1. As a written report in PDF form to the `pa8-written` assignment.
+1. As a written report in PDF form to the `Programming Assignment 8 (PA8) - Part1 written` assignment.
   - Page 1 & 2 should include the choice of PA/part, description of input you
     chose or created, your measurement results as data, and a graph of the
     measurements. Use a scatter plot to show _all_ 5 trials for each
     measurement. (If you generate more data than easily fits on a page or two,
     provide a sample of 50 data points, and include a full CSV or spreadsheet
-    in `pa8-measure-code` below).
+    in `Programming Assignment 8 (PA8) - Part1 measure code` below).
   - Page 3 and beyond should describe the change you made, your guess about
     what impact it would have on performance, the discussion described above,
     and the same data and charts requested above requested above for the
     measurements after making the change.
     
-2. A zip of your code in the `pa8-measure-code` code assignment. You should
+2. A zip of your code in the `Programming Assignment 8 (PA8) - Part1 measure code` code assignment. You should
 make sure the code you used to measure, the original code for your PA, and the
 updated version are included. We _may_ look at this to confirm/support the
 descriptions you give above. However, the descriptions you give should be
@@ -358,7 +358,7 @@ size 4` pinpoints the line on which it happens, and means that we tried reading
 an invalid pointer (at address `0x0`, which is address `0`, which is the same
 as `NULL`).
 
-You will submit this part to the `pa8` assignment on Gradescope.
+You will submit this part to the `Programming Assignment 8 (PA8) - Part2 code` assignment on Gradescope.
 
 ## Grading
 
