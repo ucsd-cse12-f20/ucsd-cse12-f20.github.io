@@ -110,7 +110,7 @@ Terminal to download the code, and then use any text editor to edit.
 
 You can get the starter code here:
 
-https://github.com/ucsd-cse12-w19/pa8-starter
+https://www.dropbox.com/s/ne3kednj8hrxuim/pa8-starter-master.zip?dl=0
 
 ### Two Practice Exercises
 
