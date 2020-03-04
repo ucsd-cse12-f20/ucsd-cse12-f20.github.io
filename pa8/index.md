@@ -105,8 +105,7 @@ line. We've provided the commands you need in a `Makefile` and detailed them
 below, but the background in the document explains the underlying commands.
 
 Also note that the PA is not set up with Eclipse, so directly importing the
-code into Eclipse will not create a project. Instead, you can `git clone` in
-Terminal to download the code, and then use any text editor to edit.
+code into Eclipse will not create a project. You can use any text editor to edit.
 
 You can get the starter code here:
 
