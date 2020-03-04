@@ -172,9 +172,7 @@ find all the relevant source files.
 
 In `heap.c`, you will write implementations of these functions. Your
 implementation will be a **min heap** (the mapping with the lowest key will be
-on top). Some notes on the required algorithms are in lectures from week 8:
-
-https://github.com/ucsd-cse12-w19/ucsd-cse12-w19.github.io/tree/master/lectures/lecture20-Heap
+on top). Some notes on the required algorithms are in lectures from week 9.
 
 Descriptions of each function are:
 
