@@ -110,7 +110,8 @@ Terminal to download the code, and then use any text editor to edit.
 
 You can get the starter code here:
 
-https://www.dropbox.com/s/ne3kednj8hrxuim/pa8-starter-master.zip?dl=0
+[https://www.dropbox.com/s/ne3kednj8hrxuim/pa8-starter-master.zip?dl=0](https://www.dropbox.com/s/ne3kednj8hrxuim/pa8-starter-master.zip?dl=0)
+
 
 ### Two Practice Exercises
 
