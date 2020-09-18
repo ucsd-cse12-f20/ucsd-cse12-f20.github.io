@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CSE 12 Winter 2020, A &amp; B Sections
-doodle: "/doodle.png"
+title: CSE 12 Fall 2020, A &amp; B Sections
+doodle: "./doodle.png"
 ---
 
 # Basic Data Structures and Object-Oriented Design
 
-<a href="https://gregmiranda.com">Gregory Joseph Miranda</a> (Instructor)
+<a href="https://gregmiranda.com">Greg Miranda</a> (Instructor)
 
 This course focuses on two main topics: The basics of organizing data for
 efficient computation, and the design of programs that use collections,
@@ -35,26 +35,36 @@ familiar with as well.
 
 This schedule has links to the programming and review activities you will
 complete for the course. You are responsible for checking this schedule and
-completing work by the deadlines given, which are always at 11pm local San
+completing work by the deadlines given, which are always at 11:59pm local San
 Diego time on the listed date.
 
-<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRR15tptNltuhVbqshr0LMa5s7MgodQezRM1YTmGSmzRRxGtfvpKmQjUlbNs9Ru_nbuPD7Mq-KVvxmd/pubhtml?gid=594704517single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_Ag3MqtTtu5fVOCvWaA8c1EEas5WcrTUPoNAcEo_C2tTPNyLzBU3zBtA6-ExuaLlnFDWAcm7nQJZV/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Basic Course Components
 <a id="basics"></a>
 
 ### <a id="b:lec" href="#b:lec">Lecture</a>
 
+Most lecture content will be presented asynchronously through videos and readings. These will come with associated quizzes that are due on the following Monday, Wednesday or Friday at the start of our originally-scheduled lecture time. The quizzes are required work to demonstrate your consistent engagement with the material.
+
+In our originally-scheduled lecture time, we will play the videos with an opportunity for live questions, clarifications, and some prompts for you to work on beyond the assigned reading and videos. Attendance is encouraged but not required. Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
+
+The scheduled lecture time is (in the time zone of San Diego) Tuesday and Thursday from 11am-12:20pm. You can visit the lectures via zoom links provided with each of the lecture links in the schedule spreadsheet below.
+
+
 Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#b:engage">Engagement</a> below). You must attend the lecture in which you're enrolled.
 
 <table class="table table-striped">
 <thead>
   <tr>
-    <th>Lecture</th><th>Time</th><th>Location</th>
+    <th>Section</th><th>Time</th><th>Location</th>
   </tr>
 </thead>
 <tr>
-  <td>B00 </td><td>TuTh 8am </td><td>WLH 2005</td>
+  <td>A00 </td><td>MWF 9am - 9:50am </td><td>Zoom</td>
+</tr>
+<tr>
+  <td>B00 </td><td>MWF 10am - 10:50am </td><td>Zoom</td>
 </tr>
 </table>
 
@@ -67,14 +77,14 @@ either section can attend either discussion.
 <table class="table table-striped">
 <thead>
   <tr>
-  <th>Time</th><th>Location</th>
+  <th>Section</th><th>Time</th><th>Location</th>
   </tr>
 </thead>
 <tr>
-  <td>W 8am </td><td>CSB 002</td>
+  <td>A00 </td><td>Tu 9am - 9:50am </td><td>Zoom</td>
 </tr>
 <tr>
-  <td>W 9am </td><td>CSB 002</td>
+  <td>B00 </td><td>Tu 10am - 10:50am </td><td>Zoom</td>
 </tr>
 </table>
 
