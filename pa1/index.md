@@ -1,7 +1,6 @@
+
 ---
-layout: pa
-title: "PA1 (Open): Testing Shopping Baskets"
-doodle: "../doodle.png"
+# PA1 (Open): Testing Shopping Baskets
 ---
 
 **This assignment is <a href="../#programming">open to collaboration</a>.**
@@ -9,8 +8,7 @@ doodle: "../doodle.png"
 This assignment will teach you to use JUnit to test implementations of an
 interface, and review a number of Java concepts.
 
-It is due on Tuesday, January 14 at 11pm. A submission link will be provided on
-Gradescope by Friday, January 10.
+This PA is due on ** **Wednesday, October 14 at 11:59pm** **
 
 ## Baskets and Interns
 
@@ -97,7 +95,21 @@ they differ.
 
 ## Getting the Code
 
-Instructions [here](https://drive.google.com/open?id=1cl8FaQ6_OtI7SK1G3j-lcggPaCnovdwn)
+Link to the starter code: https://github.com/CSE12-F20-Assignments/cse12-fa20-pa1-Testing-starter
+
+Note that it is in a Github repository. There are two easy ways to download the starter files.
+
+1. Download as a ZIP folder 
+
+    After going to the Github repository, you should see a green button that says *Code*. Click on that button. Then click on *Download ZIP*. This should download all the files as a ZIP folder. You can then unzip/extract the zip bundle and move it to wherever you would like to work.
+    ![](https://i.imgur.com/ujaxqBP.png)
+
+
+2. Using git clone (requires terminal/command line)
+
+    After going to the Github repository, you should see a green button that says *Code*. Click on that button. You should see something that says *Clone with HTTPS*. Copy the link that is in that section. In terminal/command line, navigate to whatever folder/directory you would like to work. Type the command `git clone _` where the `_` is replaced with the link you copied. This should clone the repository on your computer and you can then edit the files on whatever IDE you see fit.
+    
+If you are unsure or have questions about how to get the starter code, feel free to make a Piazza post or ask a tutor for help.
 
 ## Code Layout
 
@@ -111,7 +123,7 @@ There are a number of files provided in the starter code:
 - `BasketTest.java`: This is where you will do your work, described in
   detail below.
 
-## Writing Tests
+## Part 1: Writing Tests (13 points)
 
 You will write your tests as JUnit tests in the file `BasketTest.java`.
 There is some pre-existing code in this file that you shouldn't change, and
@@ -167,7 +179,7 @@ on the dropdown arrow next to each Basket name to see which specific tests
 suceeded and failed, and click on the individual tests to see them in the
 source window and see a description of the failures.
 
-You can also run the tests from the command line. We have provided a short
+(Optional) You can also run the tests from the command line. We have provided a short
 script, `run-tests.sh`, that you can use to compile and run your program. From
 the base directory of the code, just run
 
@@ -194,11 +206,12 @@ _unique_ set of results on each `Basket` implementation. A consequence of this
 is that there should have at most one `Basket` implementation that succeeds on
 all the tests you wrote.
 
-## README
+Hint: One `Basket` might not necessarily be that buggy. This means it will pass all of your tests. HOWEVER, it is possible to have all `Basket` implementations fail tests. 
 
-You will also write a README for the assignment. You should put it in the file
-called `README.txt`, and write your answers in plain text, clearly marking
-them.
+## Part 2: Gradescope Assignment (7 points)
+
+You will also answer question on Gradescope regarding the assignment.
+The following are the questions you will need to answer. **Make sure to submit directly to the Gradescope assignment: "Programming Assignment 1 - questions"** 
 
 1. Some of the `Basket` implementations are buggy – they have clear mistakes in
    some situations. Others simply differ in behavior. For each implementation,
@@ -215,7 +228,7 @@ implementations produce those different results. You don't have to talk in
 detail about _all_ of your tests, just the ones that usefully distinguish three
 implementations of your choice.
 
-In addition, put any collaborators you worked with in the README <a
+In addition, put any collaborators you worked with in the Collaborator section of the gradescope assignment <a
 href="../#programming">as described in the collaboration policy for open
 assignments</a>.
 
@@ -245,7 +258,17 @@ On this assignment, we will give you feedback on style but not deduct points
 for problems with style.
 
 ## Submitting
+#### Part 1
+On the Gradescope assignment **Programming Assignment 1 - code** please submit only your `BasketTest.java` file. You may encounter errors if you submit extra files or directories. You may submit as many times as you like till the deadline. 
+#### Part 2
+Please submit your answers to the questions from part 2 on the Gradescope assignment **Programming Assignment 1 - questions**. You may submit as many times as you like till the deadline.
 
-A submission will be available on Gradescope by Friday, Jan 10.  We will link
-to it here when ready. You can submit as many times as you like.
+
+## Scoring (20 points total)
+* **Coding Style** (0 points)
+* **Part 1 - Code Correctness** (13 points)
+    * Does your code compile? If not, you will get 0 points.
+    * Note: we will make all tests visible on Gradescope for this first assignment. For future assignments this will change. Do not rely on Gradescope for debugging!
+* **Part 2 - Questions** (7 points)
+    
 
