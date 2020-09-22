@@ -75,11 +75,10 @@ Zoom links for the discussion sections will be posted in Canvas.
 
 ### <a id="schedule">Schedule</a>
 
-The schedule below outlines topics, due dates, and links to assignments. In a typical week, by 5pm Monday before class all due dates, readings, and notable events in the course until the following week will be posted here. So if you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. We will often have the schedule confirmed more than a week out, but we’ll strive to be up to date with the current week.
+The schedule below outlines topics, due dates, and links to assignments. If you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. We will often have the schedule confirmed more than a week out, but we’ll strive to be up to date with the current week.
 
 You are responsible for checking this schedule and
-completing work by the deadlines given, which are always at 11:59pm local San
-Diego time on the listed date.
+completing work by the deadlines given, which are always at 11:59pm local San Diego time on the listed date.
 
 <iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_Ag3MqtTtu5fVOCvWaA8c1EEas5WcrTUPoNAcEo_C2tTPNyLzBU3zBtA6-ExuaLlnFDWAcm7nQJZV/pubhtml?widget=true&amp;headers=false"></iframe>
 
@@ -116,14 +115,12 @@ Finally, you can always send a private message on Piazza to ask any question abo
 
 <h4>Asking & Answering questions on Piazza</h4>
 
-Piazza is an online discussion board where we can make announcements and students can ask questions. Both we (the course staff) and your classmates can answer your questions. There are a few kinds of questions you should ask on Piazza:
+Both we (the course staff) and your classmates can answer your questions on Piazza. There are a few kinds of questions you should ask on Piazza:
 
 - Private questions about closed programming assignments for clarification
 - Private questions about your grade / account
 - Public questions about open programming assignments
 - Public questions about the content of lecture, discussion, lab, and any readings
-
-For each assignment, you will find a Frequently Asked Questions post, where we will answer all common questions we receive in office hours and via (private) Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
 
 When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a
 mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear.
@@ -460,8 +457,8 @@ policies](https://senate.ucsd.edu/operating-procedures/educational-policies/cour
 ## <a id="policies">Other Policies</a>
 
 <a id="p:community"></a>
-<h3>The CSE 12 Community</h3>
-CSE 12 is a large course: there are 11 people on the instructional team and over 190 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
+### The CSE 12 Community
+CSE 12 is a large course: there are 17 people on the instructional team and over 380 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
 
@@ -476,7 +473,6 @@ Before you post a question or answer, consider:
 If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
 
 <a id = "p:ucsdsupport"></a>
-
 ## Student Resources and Support
 
 ### IDEA Engineering Student Center
