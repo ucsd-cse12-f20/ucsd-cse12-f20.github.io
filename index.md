@@ -19,40 +19,23 @@ test your understanding of what you've learned. After, you'll be better at
 designing and understanding programs and the structure of data they work
 over.
 
-Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>,
-<a href="#programming">Programming Assignments</a>, and <a
-href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for
-class topics, links to resources, and assignment due dates. The <a
-href="#staff">course instructional team</a> is here to help you learn: <a
-href="#help">ask for help and advice</a>!
+This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
-This page also describes how you will be <a href="#grading">graded</a>, and
-there are <a href="#policies">other course policies</a> you should be
-familiar with as well.
-
-## Schedule
-<a id="schedule"></a>
-
-This schedule has links to the programming and review activities you will
-complete for the course. You are responsible for checking this schedule and
-completing work by the deadlines given, which are always at 11:59pm local San
-Diego time on the listed date.
-
-<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_Ag3MqtTtu5fVOCvWaA8c1EEas5WcrTUPoNAcEo_C2tTPNyLzBU3zBtA6-ExuaLlnFDWAcm7nQJZV/pubhtml?widget=true&amp;headers=false"></iframe>
-
-## Basic Course Components
-<a id="basics"></a>
+## Basics
+* Canvas: https://canvas.ucsd.edu
+* Q&A Forum: Discussions on https://piazza.com
+* Gradescope: https://www.gradescope.com [an invitation will be sent in the first week]
+* Autograder: https://autograder.ucsd.edu/
 
 ### <a id="b:lec" href="#b:lec">Lecture</a>
 
 Most lecture content will be presented asynchronously through videos and readings. These will come with associated quizzes that are due on the following Monday, Wednesday or Friday at the start of our originally-scheduled lecture time. The quizzes are required work to demonstrate your consistent engagement with the material.
 
-In our originally-scheduled lecture time, we will play the videos with an opportunity for live questions, clarifications, and some prompts for you to work on beyond the assigned reading and videos. Attendance is encouraged but not required. Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
+In our originally-scheduled lecture time, we will have an opportunity for live questions, clarifications, and some prompts for you to work on beyond the assigned reading and videos. Attendance is encouraged but not required. The sessions are 30 minutes.
 
-The scheduled lecture time is (in the time zone of San Diego) Tuesday and Thursday from 11am-12:20pm. You can visit the lectures via zoom links provided with each of the lecture links in the schedule spreadsheet below.
+Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
 
-
-Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#b:engage">Engagement</a> below). You must attend the lecture in which you're enrolled.
+You can visit the lectures via Zoom links provided in Canvas. 
 
 <table class="table table-striped">
 <thead>
@@ -72,7 +55,9 @@ Expect class to be interactive; you'll work through problems in groups, compare 
 
 Discussions will reinforce concepts from class and introduce concepts that
 are especially helpful for completing programming assignments. Students from
-either section can attend either discussion. 
+either section can attend either discussion. They will be recorded. Attendance is encouraged but optional. 
+
+Zoom links for the discussion sections will be posted in Canvas. 
 
 <table class="table table-striped">
 <thead>
@@ -88,22 +73,65 @@ either section can attend either discussion.
 </tr>
 </table>
 
+### <a id="schedule" href="#schedule">Schedule</a>
+
+The schedule below outlines topics, due dates, and links to assignments. In a typical week, by 5pm Monday before class all due dates, readings, and notable events in the course until the following week will be posted here. So if you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. We will often have the schedule confirmed more than a week out, but we’ll strive to be up to date with the current week.
+
+You are responsible for checking this schedule and
+completing work by the deadlines given, which are always at 11:59pm local San
+Diego time on the listed date.
+
+<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_Ag3MqtTtu5fVOCvWaA8c1EEas5WcrTUPoNAcEo_C2tTPNyLzBU3zBtA6-ExuaLlnFDWAcm7nQJZV/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## <a id="staff" href="#staff">Staff</a>
 
-There are many instructional staff to help with your learning. You can find
-their names and pictures on <a
-href="https://piazza.com/eng.ucsd.edu/winter2020/cse12/staff" target="_blank">Piazza
-Staff page</a>. Our “home base” is in B230 in the CSE building (basement), but
-you can work in any lab. You should use <a href="https://autograder.ucsd.edu"
-target="_blank">Autograder</a> to ask for help in open lab hours. In addition,
-Instructor Greg and the TA each hold individual weekly office hours that
-you can attend. You can use either of these resources whether you're looking
-for help on an assignment or material covered in class. The <a href="https://docs.google.com/spreadsheets/d/1LjlUi9LKZ6z1Opg0hmVaDDgRr6uHVkqBjbaUAJbgNMg/edit#gid=559678146" target="_blank">schedule</a> for both
-office hours and lab hours are below. For office hours, the room number is
-noted on the event itself.
+We have a large instructional staff to help with your learning, and a few kinds of help sessions you can attend.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREtvHzGqslFCv4C0TomTsuoc43ZGBdlIcq4BzavoM_WIkv9ZSy4W-Ve2uchyvy0S2OJu83CCydb0Rm/pubhtml?gid=559678146&single=true&widget=true&amp;headers=false" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+The first is **office hours**, held by the TA and instructor. Office hours are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course. 
+
+The Zoom links to office hours will be posted in Canvas. When you join the meeting, you will be placed into a waiting room until the TA or instructor admits you to the meeting. 
+
+The second is **open lab hours** where tutors give one-on-one help with programming tasks and course content. For these sessions, you should submit a ticket on https://autograder.ucsd.edu to request help. 
+
+* Give a meaningful question or problem statement in your ticket.
+* Be prepared! You should be ready to reproduce the issue you’re having, have a test case that doesn’t produce the right output, show them a drawing of the situation you’re confused about, etc.
+
+Once a tutor accepts your ticket, they will post a link to their Zoom meeting. When you join that meeting, you will be placed into a waiting room briefly until the tutor admits you to their meeting. After you join the meeting, the tutor will chat with you to help you with your issue, and then you will leave the meeting. 
+
+Expect to have about 5 minutes with a tutor (or TA or instructor): you probably won’t have the solution at the end of the conversation, but you should feel un-stuck and ready to try new approaches.
+
+The student procedures for open lab hours can be accessed <a href="https://docs.google.com/document/d/1JpgsHIsVqoligF8AE3uLoACkSb1RRqxQy2FJX8ivDhU/edit?usp=sharing">here</a>.
+
+Below is the calendar for office hours and open lab hours.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y19lcG5xb3NsbjlldmNuMjZkOG03aWJqb2lkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;color=%230B8043&amp;mode=WEEK&amp;showTz=1&amp;showCalendars=0&amp;showPrint=0&amp;showNav=1&amp;showTabs=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+The third is **through Piazza**. Online discussion and Q&A for the class will be available on Piazza. Important announcements from the course team will be pinned at the top of your feed. When you set up your account, you can select the frequency for email notifications of messages and discussions on Piazza.
+
+For each programming assignment, we’ll make a frequently-asked questions discussion on Piazza. You should refer to that during the assignment if you get stuck or have questions come up; we’ll use it to aggregate common issues. You can feel free to comment publicly on those discussions, but do be conscious that other students can see what you post, so posting solution code for a project or an answer for a homework is an academic integrity violation.
+
+The default is that posts are private to discourage accidentally over-sharing solution code. If your post is a question about content, lecture, course technology, logistics, etc, please do ask it publicly so others can benefit from the answer.
+
+Finally, you can always send a private message on Piazza to ask any question about the course. Please don’t message individual course staff privately unless they’ve asked you to, and please don’t message only the instructor with a content question. The course staff as a whole works together to make sure these messages get prompt responses (often by adding to the frequently asked questions post).
+
+<h4>Asking & Answering questions on Piazza</h4>
+
+Piazza is an online discussion board where we can make announcements and students can ask questions. Both we (the course staff) and your classmates can answer your questions. There are a few kinds of questions you should ask on Piazza:
+
+- Private questions about closed programming assignments for clarification
+- Private questions about your grade / account
+- Public questions about open programming assignments
+- Public questions about the content of lecture, discussion, lab, and any readings
+
+For each assignment, you will find a Frequently Asked Questions post, where we will answer all common questions we receive in office hours and via (private) Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
+
+When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a
+mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear.
+Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone.
+
+For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading,
+completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may
+indeed lead you in helpful directions.
 
 ### <a id="b:materials" href="#b:materials">Materials</a>
 
@@ -117,18 +145,11 @@ is also a significant amount of reference material at the end of the book for
 review of Java concepts. To get access to the book:
 
 1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
-2. Enter zyBook code: UCSDCSE12MirandaWinter2020
+2. Enter zyBook code: UCSDCSE12MirandaFall2020
 3. Subscribe
 
 We may use other on-line resources during the quarter that may be required
 reading or activities. These will all be free and linked from the schedule.
-
-Online discussion and Q&A for the class will be available on Piazza: sign up to
-<a href="https://piazza.com/eng.ucsd.edu/winter2020/cse12" target="_blank">join the class here</a>
-and <a href="https://piazza.com/eng.ucsd.edu/winter2020/cse12/home" target="_blank">view the discussion forum here</a>.
-Important announcements from the course team will be pinned at the top of your feed.
-When you set up your account, you can select the frequency for email notifications of messages and discussions
-on Piazza.  Piazza is one way you can <a href="#pa:piazzahelp">ask for and get help</a> in this course.
 
 <a href="https://docs.oracle.com/javase/11/" target="_blank">The
 documentation for the Java language</a>, while not required reading, will be
@@ -138,95 +159,6 @@ assignments in this course, which is available at <a href="https://www.oracle.co
 
 You'll be submitting your classwork and seeing grading feedback through a
 tool called <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
-
-### <a id="b:engage" href="#b:engage">Engagement</a>
-
-We highly recommend actively participating in class, attending discussion,
-and completing the weekly review quizzes. Regularly engaging with the class
-in these ways counts towards the Engagement component of your overall score.
-
-This score is calculated on a weekly basis (starting in Week 1). The maximum
-number of points you can earn in one week is 6. The lowest weekly
-participation score will be dropped when calculating your overall engagement
-average.
-
-Earn engagement points by:
-* __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will
-earn credit for attending and participating in lecture (3 points each) and discussion section (2 points, up to a maximum of 2 points per week).
-Clicker questions will be graded for participation only and not for correctness of the response.
-Full credit for clicker points for a given day will be
-awarded for clicking in at least 80% of the time that day. Forgetting your clicker counts as missing a class, so please
-remember to bring it!
- We have you
-respond to problems in lecture because there’s quite a bit of evidence that
-sitting and listening passively [probably isn’t the best way to
-teach or learn
-science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963). <a id="p:clicker-ai"></a>
- _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
-
-* __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can
-submit your answers to each quiz as many times as you like. The latest submission before 11pm on Monday will count towards
-your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the
-deadline; in the past, students have found working through them to be helpful when studying for exams.
-<a id="p:quiz-ai"></a>
-_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from
-this website,
-but not to other references. You may not share information about the review quiz with others, take the review quiz in someone
-else's name, or ask anyone for prior knowledge about the review quiz._
-
-
-We encourage you to find your preferred method for staying engaged with the course.  There are lots of ways to earn
-full credit for a week's engagement.  For example: (1) attending all lectures; or (2) answering all questions on the review quiz correctly; or (3) attending one lecture, discussion section,  and getting one answer correct on the review quiz; etc.
-
-<a id="b:exams"></a>
-<h3>Exams</h3>
-
-There will be two exams during the quarter, held in class during Week 4
-
-**Thursday 1/30/2020**
-
-and Week 8
-
-**Thursday 2/27/2020**
-
-of the Winter quarter.  The final exam will be:
-
-**Thursday, March 19 at 8am**
-
-Seats will be assigned for all exam sessions and announced beforehand, and you
-must bring your school ID to the exam. All work on exams is to be done on your
-own, and you are not allowed to use any electronics or study aids during the
-exam (aside from those needed for University-approved academic accommodations).
-You may not speak to any other student in the exam room while the exam is in
-progress (including after you hand in your own exam).  You may not share any
-information about the exam with any student who has not yet taken it (including
-students in future quarters of CSE12).
-
-The first two exams will each be worth 8% of your final grade. The final exam
-will be worth 24% of your final grade. The final exam will have a specific
-structure – it will be broken into three parts corresponding to material from
-the first exam, the second exam, and the remainder of the course. Your grade
-for each midterm will be the *maximum* of the midterm grade and the score you
-get on the corresponding part of the final exam.
-
-For example, if you get 50% of the points for midterm 1 and 100% of the points
-for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and
-100% on part 3, you would get:
-
-- MAX(0.5, 0.75) * 8 = 6 points for midterm 1 (0.75 was higher, so the final
-  increased the midterm score!)
-- MAX(1, 0.25) * 8 = 8 points for midterm 2 (0.25 was lower, so the original
-  midterm score was used)
-- 0.75 * 8 + 0.25 * 8 + 1 * 8 = 16 points for the final exam (the score on
-  the final exam is the same regardless of how the midterms went)
-- A total of 30 out of 40 exam points towards your final grade
-
-This policy also covers what happens if you miss a midterm for any reason. If
-you are absent for a midterm, you get a 0 initially, and then whatever score
-you get on the final for that section will be applied to your midterm grade.
-There are no make-up midterms, and the final exam policy is governed by the
-[university's
-policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).
 
 ## <a id="programming" href="#programming">Programming</a>
 
@@ -376,43 +308,6 @@ their deadline passes. You can talk to other students about them, get coding
 help from staff on them, and so on. Please make use of these resources to
 understand where your solution was incorrect or incomplete, and resubmit!
 
-## <a id="help" href="#help">Getting Help</a>
-
-<h3>Working and getting help in the lab</h3>
-
-You have <a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">computer accounts</a> for the labs in the CSE building.  Even if you choose to work on your programming assignments on
-your own computer, you can work in these labs. The type of programming assignment you are working on will determine whether you can <a href="#p:open-closed">collaborate with other students</a> in the lab.
-
-During <a href="#staff">open lab hours</a>, tutors, TAs, and the
-instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an
-assignment. We will be using the <a href="https://autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of
-requests for help in lab.  To get in the queue, log into Autograder with your @ucsd.edu email and submit your question as a ticket:
-
-- Give a meaningful question or problem statement in your ticket.
-- Be prepared! When the tutor shows up, you should be ready to reproduce the issue you're having, have a test case that doesn't produce the right output, show them a drawing of the situation you're confused about, etc.
-
-Expect to have about 5 minutes with a tutor (or TA or instructor): you probably won't have the solution at the end of the conversation, but you should feel un-stuck and ready to try new approaches.
-
-<a id="pa:piazzahelp"></a>
-<h4>Asking & Answering questions on Piazza</h4>
-
-Piazza is an online discussion board where we can make announcements and students can ask questions. Both we (the course staff) and your classmates can answer your questions. There are a few kinds of questions you should ask on Piazza:
-
-- Private questions about closed programming assignments for clarification
-- Private questions about your grade / account
-- Public questions about open programming assignments
-- Public questions about the content of lecture, discussion, lab, and any readings
-
-For each assignment, you will find a Frequently Asked Questions post, where we will answer all common questions we receive in office hours and via (private) Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
-
-When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a
-mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear.
-Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone.
-For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading,
-completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may
-indeed lead you in helpful directions.
-
-
 
 ## <a id="grading" href="#grading">Grading</a>
 
@@ -420,8 +315,8 @@ Your grade will be computed from:
 
 <ul>
   <li>50% programming assignments</li>
-  <li>40% exams</li>
-  <li>10% engagement</li>
+  <li>30% exams</li>
+  <li>20% engagement</li>
 </ul>
 
 There are **3 closed** and **5 open** PAs. We will use an _ordered
@@ -500,7 +395,7 @@ based on the following grading scale:
 </table>
 
 We may adjust the above scale to be more lenient (depending on the overall class performance), but we guarantee that we will
-not adjust the scale to make it harder to get a better grade.
+not adjust the scale to make it harder to get a better grade. We will not adjust the scale for individual students. 
 In addition, you must pass the final exam in order to pass the course.
 
 <b>Late and Makeup Work</b> In general, work cannot be handed in late for
@@ -515,6 +410,52 @@ we will allow a short period for you to request a fix to your grade
 mistake was made. If you don't make a request in the given period, the grade
 you were initially given is final. All regrades should be made through
 Gradescope's interface.
+
+### <a id="b:engage" href="#b:engage">Engagement</a>
+
+Each lecture will come with an associated quiz. Completing the quiz before the next lecture section with at least half of the answers correct gains engagement credit. You can also get engagement credit by submitting various surveys and other small engagement tasks we may ask of you throughout the quarter.
+
+You need to get credit for 16 (out of 20 total) quizzes for full engagement credit.
+
+### <a id="b:exams" href="#b:exams">Exams</a>
+
+There will be two midterm exams during the quarter, held remotely during
+
+* Week 4 - **Friday 10/30/2020**
+* Week 8 - **Wednesday 11/25/2020**
+
+The final exam
+
+* will be released - **Wednesday, December 16 at 8am**
+* and due by - **Friday, December 18 at 11:59pm**
+
+Exams will be held asynchronously, meaning you can take them any time within the start and end time, usually a 24 hours period. They must be completed in one sitting. All work on exams is to be done on your own and is open book and open notes. Any form of collaboration on the exams will lead to AI violations. You may access your compiler and the internet for the exams, however, no sharing answers on any site, including Piazza. There will be no make up exams conducted.
+
+You may not share any information about the exam with any student who has not yet taken it (including students in future quarters of CSE12).
+
+The first two exams will each be worth 6% of your final grade. The final exam
+will be worth 18% of your final grade. The final exam will have a specific
+structure – it will be broken into three parts corresponding to material from
+the first exam, the second exam, and the remainder of the course. Your grade
+for each midterm will be the *maximum* of the midterm grade and the score you
+get on the corresponding part of the final exam.
+
+For example, if you get 50% of the points for midterm 1 and 100% of the points for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and 100% on part 3, you would get:
+
+- MAX(0.5, 0.75) * 6 = 4.5 points for midterm 1 (0.75 was higher, so the final
+  increased the midterm score!)
+- MAX(1, 0.25) * 6 = 6 points for midterm 2 (0.25 was lower, so the original
+  midterm score was used)
+- 0.75 * 6 + 0.25 * 6 + 1 * 6 = 12 points for the final exam (the score on
+  the final exam is the same regardless of how the midterms went)
+- A total of 22.5 out of 30 exam points towards your final grade
+
+This policy also covers what happens if you miss a midterm for any reason. If
+you are absent for a midterm, you get a 0 initially, and then whatever score
+you get on the final for that section will be applied to your midterm grade.
+There are no make-up midterms, and the final exam policy is governed by the
+[university's
+policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).
 
 ## <a id="policies" href="#policies">Other Policies</a>
 
@@ -533,71 +474,6 @@ Before you post a question or answer, consider:
 - Is it a question that's been asked before, that you could find via searching?
 
 If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
-
-<a id="p:research-consent"></a>
-<h3>Consent to Participate in Educational Research</h3>
-<h4>Investigating the Impact of Pedagogical Choices on University Student Learning and Engagement</h4>
-
-<h5>Who is conducting the study, why you have been asked to participate, how you were selected, and what is the approximate number of participants in the study?</h5>
-
-<p>Gabriele Wienhausen, Director of the Teaching and Learning Commons, together with her education research colleagues is conducting a research study to find out more about how pedagogical choices affect student learning and experience in the classroom. You have been asked to participate in this study because you are a student in a class that is being studied or used as a control. There will be approximately 500,000 participants in this study.</p>
-
-<h5>Why is this study being done?</h5>
-
-<p>The purpose of this study is to create knowledge that has the potential to improve the learning and educational experience of students at UC San Diego and beyond.</p>
-
-<h5>What will happen to you in this study and which procedures are standard of care and which are experimental?</h5>
-
-<p>If you agree to be in this study, the following will happen:
-Your data from this class including grades, homework and exam submissions, and survey responses will be included in the analysis to determine the effectiveness of the pedagogical techniques used in this course compared to other similar courses.</p>
-
-<h5>How much time will each study procedure take, what is your total time commitment, and how long will the study last?</h5>
-
-<p>Your participation involves only agreeing to let us use your data in our analysis. It will require no time on your part above the time you put into this course without agreeing to the study.</p>
-
-<h5>What risks are associated with this study?</h5>
-
-<p>Participation in this study may involve some added risks or discomforts. These include the following:
-
-A potential for the loss of confidentiality. We will not share your personally identifying data with people outside our research team. Data will only be kept in anonymized form for research purposes. Course data will not be used for this research study until after final grades have been posted and will be rendered confidential by removing any identifiers before analysis. Your instructor will not know whether or not you are participating in this study until after final grades have been posted. Data from students who opt out of the study will be removed prior to data analysis. Research records will be kept confidential to the extent allowed by law. Research records may be reviewed by the UCSD Institutional Review Board.
-Since this is an investigational study, there may be some unknown risks that are currently unforeseeable. You will be informed of any significant new findings.</p>
-
-<h5>What are the alternatives to participating in this study?</h5>
-
-<p>The alternatives to participation in this study are not to participate. If you choose to opt-out of participating in this research study, we will exclude your data from analysis. Whether you participate will have no impact on your experience or grade in the associated class as the professor will not know who is or is not participating in the study until after final grades are assigned.</p>
-
-<h5>What benefits can be reasonably expected?</h5>
-
-<p>There is no direct benefit to you for participating in the study. The investigator, however, may learn more about how to improve student learning, and society may benefit from this knowledge.</p>
-
-<h5>Can you choose to not participate or withdraw from the study without penalty or loss of benefits?</h5>
-
-<p>Participation in research is entirely voluntary. You may refuse to participate or withdraw or refuse to answer specific questions in an interview or on a questionnaire at any time without penalty or loss of benefits to which you are entitled. If you decide that you no longer wish to continue in this study before the end of the quarter, simply respond to the online opt-out form here: <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2.</a>. If you decide to opt out after the quarter has ended, you must contact Laurel Nelson (laureln@ucsd.edu) and give the quarter and the course from which you would like your data withdrawn.
-
-You will be told if any important new information is found during the course of this study that may affect your wanting to continue.
-</p>
-
-<h5>Can you be withdrawn from the study without your consent?</h5>
-
-<p>The PI may remove you from the study without your consent if the PI feels it is in your best interest or the best interest of the study. You may also be withdrawn from the study if you do not follow the instructions given you by the study personnel.</p>
-
-<h5>Will you be compensated for participating in this study?</h5>
-
-<p>You will not be compensated for participating in this study.</p>
-
-<h5>Are there any costs associated with participating in this study?</h5>
-
-<p>There will be no cost to you for participating in this study.</p>
-
-<h5>Who can you call if you have questions?</h5>
-
-<p>Gabriele Wienhausen and/or her colleague has explained this study to you and answered your questions. If you have other questions or research-related problems, you may reach Gabriele Wienhausen at gwienhausen@ucsd.edu or (858) 534-3958.
-
-You may call the Human Research Protections Program Office at 858-246-HRPP (858-246-4777) to inquire about your rights as a research subject or to report research-related problems.</p>
-
-<h5>Your Consent</h5>
-
-<p>If you consent to participate in this study, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://docs.google.com/forms/d/e/1FAIpQLScs0Cznypp4SxQJOsFMgP9nFDjJ0zzYPlSBWsiP3_wiWkdjaA/viewform" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLScs0Cznypp4SxQJOsFMgP9nFDjJ0zzYPlSBWsiP3_wiWkdjaA/viewform</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
 
 <a id = "p:ucsdsupport"></a>
 
