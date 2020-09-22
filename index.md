@@ -22,12 +22,12 @@ over.
 This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
 ## Basics
-* Canvas: <a href="https://canvas.ucsd.edu">https://canvas.ucsd.edu</a>
-* Q&A Forum: Discussions on <a href="https://piazza.com">https://piazza.com</a>
-* Gradescope: <a href="https://www.gradescope.com">https://www.gradescope.com</a> [an invitation will be sent in the first week]
-* Autograder: <a href="https://autograder.ucsd.edu/">https://autograder.ucsd.edu/</a>
+* Canvas: https://canvas.ucsd.edu
+* Q&A Forum: Discussions on https://piazza.com
+* Gradescope: https://www.gradescope.com [an invitation will be sent in the first week]
+* Autograder: https://autograder.ucsd.edu/
 
-### <a id="b:lec">Lecture</a>
+### <a id="b:lec" href="#b:lec">Lecture</a>
 
 Most lecture content will be presented asynchronously through videos and readings. These will come with associated quizzes that are due on the following Monday, Wednesday or Friday at the start of our originally-scheduled lecture time. The quizzes are required work to demonstrate your consistent engagement with the material.
 
@@ -51,7 +51,7 @@ You can visit the lectures via Zoom links provided in Canvas.
 </tr>
 </table>
 
-### <a id="b:disc">Discussion</a>
+### <a id="b:disc" href="#b:disc">Discussion</a>
 
 Discussions will reinforce concepts from class and introduce concepts that
 are especially helpful for completing programming assignments. Students from
@@ -73,7 +73,7 @@ Zoom links for the discussion sections will be posted in Canvas.
 </tr>
 </table>
 
-### <a id="schedule">Schedule</a>
+### <a id="schedule" href="#schedule">Schedule</a>
 
 The schedule below outlines topics, due dates, and links to assignments. In a typical week, by 5pm Monday before class all due dates, readings, and notable events in the course until the following week will be posted here. So if you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. We will often have the schedule confirmed more than a week out, but we’ll strive to be up to date with the current week.
 
@@ -83,7 +83,7 @@ Diego time on the listed date.
 
 <iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_Ag3MqtTtu5fVOCvWaA8c1EEas5WcrTUPoNAcEo_C2tTPNyLzBU3zBtA6-ExuaLlnFDWAcm7nQJZV/pubhtml?widget=true&amp;headers=false"></iframe>
 
-## <a id="staff">Staff</a>
+## <a id="staff" href="#staff">Staff</a>
 
 We have a large instructional staff to help with your learning, and a few kinds of help sessions you can attend.
 
@@ -133,7 +133,7 @@ For public discussion, note that answers from your classmates are not official! 
 completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may
 indeed lead you in helpful directions.
 
-### <a id="b:materials">Materials</a>
+### <a id="b:materials" href="#b:materials">Materials</a>
 
 There is no required textbook for the course. 
 
@@ -160,13 +160,13 @@ assignments in this course, which is available at <a href="https://www.oracle.co
 You'll be submitting your classwork and seeing grading feedback through a
 tool called <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
 
-## <a id="programming">Programming</a>
+## <a id="programming" href="#programming">Programming</a>
 
 Most weeks, you will be working on a programming assignment for this class.
 There are several specific policies in place regarding programming
 assignments, and you should pay careful attention to them.
 
-### <a id="p:open-closed">Collaboration</a>
+### <a id="p:open-closed" href="#p:open-closed">Collaboration</a>
 
 **This is not the same collaboration policy you have seen in your other
 programming courses. Read it carefully.**
@@ -273,7 +273,7 @@ You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 on academic integrity as well.
 
-### <a id="p:grading">Grading Programming Work</a>
+### <a id="p:grading" href="#p:grading">Grading Programming Work</a>
 
 Each programming assignment will have a portion that is automatically graded,
 and a portion that is manually graded by the course staff.
@@ -309,7 +309,7 @@ help from staff on them, and so on. Please make use of these resources to
 understand where your solution was incorrect or incomplete, and resubmit!
 
 
-## <a id="grading">Grading</a>
+## <a id="grading" href="#grading">Grading</a>
 
 Your grade will be computed from:
 
@@ -411,13 +411,13 @@ mistake was made. If you don't make a request in the given period, the grade
 you were initially given is final. All regrades should be made through
 Gradescope's interface.
 
-### <a id="b:engage">Engagement</a>
+### <a id="b:engage" href="#b:engage">Engagement</a>
 
 Each lecture will come with an associated quiz. Completing the quiz before the next lecture section with at least half of the answers correct gains engagement credit. You can also get engagement credit by submitting various surveys and other small engagement tasks we may ask of you throughout the quarter.
 
 You need to get credit for 16 (out of 20 total) quizzes for full engagement credit.
 
-### <a id="b:exams">Exams</a>
+### <a id="b:exams" href="#b:exams">Exams</a>
 
 There will be two midterm exams during the quarter, held remotely during
 
@@ -457,7 +457,7 @@ There are no make-up midterms, and the final exam policy is governed by the
 [university's
 policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).
 
-## <a id="policies">Other Policies</a>
+## <a id="policies" href="#policies">Other Policies</a>
 
 <a id="p:community"></a>
 <h3>The CSE 12 Community</h3>
