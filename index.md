@@ -211,9 +211,9 @@ There are two types of assignments in this course, **open** and **closed**:
     struggling with. Your README should say “I used the code from
     https://piazza.com/class/id-of-post”.
 
-  - Anyone you work with in-person must be noted in your README
+  - Anyone you work with in-person (**please follow all social distancing guidelines**) must be noted in your README
 
-    **Example:** You and another student sit next to each other in the lab,
+    **Example:** You and another student sit next to each other,
     and point out mistakes and errors to one another as you work through
     the assignment. As a result, your solutions are substantially similar.
     Your README should say “I collaborated with Firstname Lastname to
