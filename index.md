@@ -22,10 +22,10 @@ over.
 This web page serves as the main source of announcements and resources for the course, as well as the syllabus.
 
 ## Basics
-* Canvas: <a href="https://canvas.ucsd.edu">https://canvas.ucsd.edu</a>
-* Q&A Forum: Discussions on <a href="https://piazza.com">https://piazza.com</a>
-* Gradescope: <a href="https://www.gradescope.com">https://www.gradescope.com</a> [an invitation will be sent in the first week]
-* Autograder: <a href="https://autograder.ucsd.edu/">https://autograder.ucsd.edu/</a>
+* Canvas: <a target="_blank" href="https://canvas.ucsd.edu">https://canvas.ucsd.edu</a>
+* Q&A Forum: Discussions on <a target="_blank" href="https://piazza.com">https://piazza.com</a>
+* Gradescope: <a target="_blank" href="https://www.gradescope.com">https://www.gradescope.com</a> [an invitation will be sent in the first week]
+* Autograder: <a target="_blank" href="https://autograder.ucsd.edu/">https://autograder.ucsd.edu/</a>
 
 ### <a id="b:lec">Lecture</a>
 
