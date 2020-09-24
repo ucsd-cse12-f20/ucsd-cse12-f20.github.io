@@ -1,31 +1,43 @@
+
 ---
-layout: pa
-title: "PA2 (Closed): Manipulating Lists"
-doodle: "../doodle.png"
+
+# PA2 (Closed):Lists
 ---
 
 **This assignment is <a href="../#programming">closed to collaboration</a>.**
 
 This assignment will exercise your understanding of array and linked lists.
 
-It is due on Tuesday, January 21 at 11pm. A submission link will be provided
-on Gradescope by Friday, January 17.
+This PA is due on ** **Wednesday, October 21 at 11:59pm** **
 
-## Setup and Goal
+## Getting the Code
 
-You can get the starter code at
-[https://www.dropbox.com/s/xfvya4jzgl5k9ek/pa2-starter-master.zip?dl=0](https://www.dropbox.com/s/xfvya4jzgl5k9ek/pa2-starter-master.zip?dl=0),
-which contains the following files:
+Link to the starter code: https://github.com/CSE12-F20-Assignments/cse12-fa20-pa2-Lists-starter
+
+Note that it is in a Github repository. There are two easy ways to download the starter files.
+
+1. Download as a ZIP folder 
+
+    After going to the Github repository, you should see a green button that says *Code*. Click on that button. Then click on *Download ZIP*. This should download all the files as a ZIP folder. You can then unzip/extract the zip bundle and move it to wherever you would like to work.
+
+2. Using git clone (requires terminal/command line)
+
+    After going to the Github repository, you should see a green button that says *Code*. Click on that button. You should see something that says *Clone with HTTPS*. Copy the link that is in that section. In terminal/command line, navigate to whatever folder/directory you would like to work. Type the command `git clone _` where the `_` is replaced with the link you copied. This should clone the repository on your computer and you can then edit the files on whatever IDE you see fit.
+    
+If you are unsure or have questions about how to get the starter code, feel free to make a Piazza post or ask a tutor for help.
+
+## Code Layout
 
 - `StringList.java` – you *cannot* edit this file
-- `StringTransformer.java` – you *cannot* edit this file
-- `StringChooser.java` – you *cannot* edit this file
-- `ArraySL.java` – you will edit this file
+- `StringTransformer.java` – you *cannot* edit this file
+- `StringChooser.java` – you *cannot* edit this file
+- `ArraySL.java` – you will edit this file
 - `LinkedSL.java` – you will edit this file
 - `TestLists.java` – you will edit this file
 - `Choosers.java` – you will edit this file
 - `Transformers.java` – you will edit this file
 
+## Part 1: Implementation (42 points)
 
 You are going to implement the `StringList` interface below twice, once for
 array lists and once for linked lists:
@@ -123,7 +135,7 @@ asl.chooseAll(new LongWordChooser());
 then we should expect the contents of the list after to be `"longword",
 "longerword"`.
 
-### Implementations of `StringChooser` and `StringTransformer`
+### Part 2: Implementations of `StringChooser` and `StringTransformer` (4 points)
 
 You must add (at least) 2 implementations of **each** of these interfaces. Your
 implementations of `StringChooser` should go into the file `Choosers.java`, and
@@ -178,9 +190,29 @@ tests against each buggy implementation and checking if the results are
 different than on the reference implementation.
 
 You will be able to see the correctness information in Gradescope to confirm
-that your tests match our expected behavior. The thoroughness information will
-be available only after you submit, so make sure to test a number of
-interesting cases.
+that your tests match our expected behavior. 
+
+###### What is is wheat and chaff?  
+* Wheat and chaff are terms to describe good and bad code. **Be sure to understand these two terms as you will find that they will be used in later programming assignments as well!** Wheat refers to  functional code while chaff refers to buggy code. Throughout this course we will do the following in order to score your written tests:
+    * running your written tests against a wheat implementation to see if your tests are correct. 
+    * running your tests against a series of chaff implementations to make sure your tests are thorough and able to catch potential bugs.  
+
+The following table shows the test case breakdown along with some descriptions to help you as you write your own tests. Note, **this is not comprehensive** as you will have to think of some of your own test cases but this will help guide you. 
+
+
+| Test Cases   | Description | Points |
+|--------------|-------------|--------|
+| chaff implementations |The following are examples of bad implementations where your tests will be expected to catch the bugs, look at the names to help get an idea of what the bug could be. For tricker bugs, further explanations are given. <ul><li>chaffAlwaysChoosesFirstArraySL<ul><li>in ArraySL, chooseAll() always chooses the first element</li></ul></li><li>chaffIsEmptyReturnsTrueIfSizeGreaterThan0ArraySL</li><li>chaffReturnNewArrayArraySL<ul><li>in ArraySL, toArray() does not create a new array</li></ul></li><li>chaffIsEmptyReturnsFalseSizeGreaterThan3</li><li>chaffMustChooseLastLinkedSL</li><li>chaffDoWhileToArrayLinkedSL<ul><li>in LinkedSL, a do-while loop is used in toArray()</li></ul></li><li>chaffDoWhileTransformArraySL</li><li>chaffFixedSizeConstructorLinkedSL</li><li>chaffIncorrectTransformBoundsLinkedSL</li><li>chaffIncludeNullToArrayArraySL<ul><li>in ArraySL, extra nulls are being copied to the end of the new array</li></ul></li></ul> | 10 |
+| wheat implementation | `TestLists.java` will be used against a correct implementation. This will check if the tests written are correct and do not flag any errors for the wheat implementation. | 5 |
+| Constructor | Correctly populates the instance variables for the object. <ul><li>pass an empty array</li><li>pass an array with multiple values</li> </ul>| 3 |
+| isEmpty |  Correctly checks to see if the ArraySL/LinkedSL is empty. <ul><li>the list is empty, returns True</li><li>the list is not empty with multiple values, returns False</li><li>the list is not empty with only one value, returns False</li> </ul>| 6 (3 for ArraySL, 3 for LinkedSL)|
+| toArray |  Correctly returns an array of the values that were in the ArraySL/LinkedSL. <ul><li>the list is empty</li><li>the list has a large size</li><li>creates a new array to return</li> </ul> | 6 (3 for ArraySL, 3 for LinkedSL)|
+| choose | Correctly chooses the desired elements. <ul><li>the list is empty</li><li>choose all of the elements in the list</li><li>list with only two elements, choose second element</li> <li>choose first and last in list</li></ul> | 6 (3 for ArraySL, 3 for LinkedSL)|
+| transform | Correctly transforms the elements in the list. <ul><li>the list is empty</li><li>the list has two items</li><li>the list has a large size</li> </ul>| 6 (3 for ArraySL, 3 for LinkedSL)|
+
+##### Sanity Check
+When you submit, you will see a `Sanity Check`. This is a subset of the tests we will be running on your code to help see if you are on the right track. **Passing all of these does not necessarily mean you will get full credit!!!** You need to write your own tests to make sure you have the correct functionality for all of the required methods.
+
 
 ## Constraints
 
@@ -236,9 +268,10 @@ There are no graded style requirements for this PA, which has the same
 suggestions as PA1. We may give you feedback on style, which you should pay
 attention to, because future assignments will assign points to style.
 
-## README
+## Part 3: Gradescope Assignment (4 points)
 
-You will answer the following question in your README:
+You will also answer question on Gradescope regarding the assignment.
+The following are the questions you will need to answer. **Make sure to submit directly to the Gradescope assignment: "Programming Assignment 2 - questions"** 
 
 1. Describe a mistake you made in your implementation, and how you fixed it.
 (Don't worry if you don't think your implementation is fully complete when
@@ -260,20 +293,40 @@ Checklist:
 - A correct and thorough set of tests
 - 2 implementations of `StringChooser` (in addition to `LongWordChooser`)
 - 2 implementations of `StringTransformer` (in addition to `UpperCaseTransformer`)
-- 2 README questions
+- 2 assignment questions
 
-Rubric:
 
-- 31 points – implementation correctness
-  - 3 points for each of 9 methods [autograded]
-  - 4 points for implementations of `StringChooser` and `StringTransformer` [manually graded]
-- 5 points – test correctness [autograded]
-- 10 points – test thoroughness [autograded]
-- 4 points – written questions [manually graded]
+## Submitting
 
-(50 total points)
+#### Part 1
+On the Gradescope assignment **Programming Assignment 2 - code** please submit the following file structure:
 
-The submission link will be available on Gradescope as `pa2`.
+* *cse12pa2student*
+    * ArraySL.java
+    * Choosers.java
+    * LinkedSL.java
+    * StringChooser.java
+    * StringList.java
+    * StringTransformer.java
+    * TestLists.java
+    * Transformers.java
+
+The easiest way to submit your files is to zip the `cse12pa2student` folder and upload that to Gradescope. You may also use the bash script provided, `prepare-submission.sh`.
+You may encounter errors if you submit extra files or directories. You may submit as many times as you like till the deadline. 
+#### Part 2
+Please submit your answers to the questions from part 2 on the Gradescope assignment **Programming Assignment 2 - questions**. You may submit as many times as you like till the deadline.
+
+## Scoring (50 points total)
+
+* **Coding Style** (0 points)
+* **Correctness** (42 points)
+    * Does your code compile? If not, you will get 0 points.
+    * Does it pass all of the provided unit tests?
+* **Implementations of StringChooser/StringTransformer** (4 points)
+* **Gradescope Assignment** (4 points)
+    
+
+
 
 ## Modern Java: Lambda Expressions
 
@@ -306,4 +359,5 @@ This doesn't require writing the `UpperCaseTransformer` class at all!
 Lambda expressions were added in Java version 8, and allow for us to write
 methods and classes in the concise style shown above if we design with
 functional interfaces in mind.
+
 
