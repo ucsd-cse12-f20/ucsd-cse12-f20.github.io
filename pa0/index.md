@@ -15,6 +15,7 @@ Follow this document to install Java and Eclipse for either Windows or Mac: [Ins
 Follow this supplementary video if you have any issues downloading Java or Eclipse:
 
    Windows: https://drive.google.com/file/d/1XTR6piRSMA1y3JJpcPp2iO_MlhOEaDF_/view?usp=sharing
+   Mac: https://drive.google.com/file/d/1HRO6Yb3Ira4VIM5ogOm04T2c7u-pwUh2/view?usp=sharing
 
 ## Getting the Code
 
