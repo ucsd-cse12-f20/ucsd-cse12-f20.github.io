@@ -86,6 +86,8 @@ completing work by the deadlines given, which are always at 11:59pm local San Di
 
 We have a large instructional staff to help with your learning, and a few kinds of help sessions you can attend.
 
+<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRelEhSTgev4Lz72isky67hQ9a22OHTug4UJq9wucsAFsB_LoTIFrxkkvP8hVT9ufY4QVtpEuy0ii9u/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 The first is **office hours**, held by the TA and instructor. Office hours are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course. 
 
 The Zoom links to office hours will be posted in Canvas. When you join the meeting, you will be placed into a waiting room until the TA or instructor admits you to the meeting. 
