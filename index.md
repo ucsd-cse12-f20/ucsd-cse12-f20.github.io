@@ -398,7 +398,7 @@ not adjust the scale to make it harder to get a better grade. We will not adjust
 In addition, you must pass the final exam in order to pass the course.
 
 <b>Late and Makeup Work</b> In general, work cannot be handed in late for
-credit. We will drop the lowest weekly engagement score to account for
+credit. We will drop 20% of the lowest engagement activities (quizzes & surveys) to account for
 personal events and constraints that make you miss those deadlines.
 
 Programming work that is late follows the resubmission policy in <a href="#p:grading">the programming grades section</a>.
