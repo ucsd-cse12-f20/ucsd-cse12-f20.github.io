@@ -55,6 +55,7 @@ public class LinkedStringList implements StringList {
       current = current.next;
     }
     current.next = current.next.next;
+	this.size -= 1;
   }
 
   public void insert(int index, String s) {
@@ -63,6 +64,7 @@ public class LinkedStringList implements StringList {
       current = current.next;
     }
     current.next = new Node(s, current.next);
+	this.size += 1;
   }
 
   public int size() {
