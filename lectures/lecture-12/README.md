@@ -2,4 +2,4 @@ Video(s) for Lecture 12:
 
 Pre-Lecture 12 - Week 4 - Wednesday  
 Canvas - https://canvas.ucsd.edu/  
-Backup - TBD
+Backup - https://drive.google.com/file/d/1v2UBNznrVBxpkdeAnRkCafJ3mOl5nVga/view?usp=sharing
